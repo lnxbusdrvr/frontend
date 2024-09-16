@@ -1,0 +1,94 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": true
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": true
+    },
+    {
+      "id": "f490",
+      "content": "sfdgsfgsfgsfg",
+      "important": false
+    },
+    {
+      "id": "aa8c",
+      "content": "sfdgsfgsfgsfg",
+      "important": true
+    },
+    {
+      "id": "9fd2",
+      "content": "sfdgsfgsfgsfg",
+      "important": false
+    },
+    {
+      "id": "96e4",
+      "content": "sfdgsfgsfgsfg",
+      "important": true
+    },
+    {
+      "id": "d535",
+      "content": "sfdgsfgsfgsfg",
+      "important": false
+    },
+    {
+      "id": "9d38",
+      "content": "sfdgsfgsfgsfg",
+      "important": false
+    },
+    {
+      "id": "557c",
+      "content": "sfdgsfgsfgsfg",
+      "important": true
+    },
+    {
+      "id": "fef5",
+      "content": "sfdgsfgsfgsfg",
+      "important": true
+    },
+    {
+      "id": "60f4",
+      "content": "sfdgsfgsfgsfg",
+      "important": true
+    },
+    {
+      "id": "2115",
+      "content": "sfdgsfgsfgsfg",
+      "important": true
+    },
+    {
+      "id": "4237",
+      "content": "srgnsm",
+      "important": false
+    },
+    {
+      "id": "71e3",
+      "content": "Killi kalli",
+      "important": false
+    },
+    {
+      "id": "510c",
+      "content": "Karhunpoieka",
+      "important": false
+    },
+    {
+      "id": "303f",
+      "content": "Onneli",
+      "important": true
+    },
+    {
+      "id": "589f",
+      "content": "Asllpo",
+      "important": true
+    }
+  ]
+}
