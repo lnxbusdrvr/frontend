@@ -73,7 +73,6 @@ const App = () => {
         <button onClick={() => setShowAll(!showAll)}>
           show {showAll ? 'important' : 'all'}
         </button>
-          show
       </div>
       <ul>
         {notesToShow.map(note => 
