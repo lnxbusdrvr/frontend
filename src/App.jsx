@@ -1,8 +1,10 @@
 import { useState, useEffect } from 'react';
 import axios from 'axios';
+import Header from './components/Header';
 import Note from './components/NoteComponent';
 import Notification from './components/Notification';
 import noteService from './services/NoteService';
+import Footer from './components/Footer';
 
 const App = () => {
   const [notes, setNotes] = useState([]);
@@ -67,7 +69,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>Notes</h1>
+      <Header app="Notes" />
       {errorMessage && <Notification message={errorMessage} />}
       <div>
         <button onClick={() => setShowAll(!showAll)}>
@@ -87,6 +89,7 @@ const App = () => {
     <button type="submit">save</button>
     
     </form>
+    <Footer app="Note app" school="fullstackopen.com & Open University of Helsinki" year="2024" />
     </div>
   )
 }
