@@ -5,7 +5,7 @@ const Footer = ({app, school, year}) => {
     fontSize: 16
   }
   return (
-    <div style={footerStyle}>{app}, {school}, {year}.</div>
+    <p style={footerStyle}>{app}, {school}, {year}.</p>
   )
 }
 
